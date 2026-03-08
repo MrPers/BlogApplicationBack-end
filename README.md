@@ -31,5 +31,5 @@ After `backend/npm run seed`:
 
 ## Submission Links
 
-- **Frontend URL:** `<add-your-github-pages-url-here>`
-- **Backend URL:** `<add-your-render-url-here>`
+- **Frontend URL:** `https://blogapplicationfront-end-lzmn.onrender.com`
+- **Backend URL:** `https://blogapplicationback-end.onrender.com/`
